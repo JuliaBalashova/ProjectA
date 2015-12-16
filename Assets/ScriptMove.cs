@@ -10,6 +10,8 @@ public class ScriptMove : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
+		Debug.Log ("1");
+		Debug.Log ("2");	
 	}
 }
